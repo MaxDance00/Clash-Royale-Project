@@ -1,4 +1,4 @@
-A Python application that helps players build effective Clash Royale decks by analyzing card counters and synergies.  
+A Python application that helps players build effective Clash Royale decks by analysing card counters and synergies.  
 
  ## Features  
  - Deck recommendation based on selected cards  
