@@ -4,6 +4,7 @@ import json
 import matplotlib.pyplot as plt
 import seaborn as sns
 import numpy as np
+import os
 
 # Set page title and configuration
 st.set_page_config(page_title="Clash Royale Deck Builder", layout="wide")
@@ -14,7 +15,9 @@ st.title("Clash Royale Deck Builder")
 @st.cache_data
 def load_data():
     # Load the card metadata from CSV
-    cards_df = pd.read_csv(r'C:\Users\maxda\PycharmProjects\pythonProject6\src\data\card_metadata_enhanced_final.csv')
+    # Use a relative path that works both locally and on Streamlit Cloud
+    current_dir = os.path.dirname(__file__)
+    cards_df = pd.read_csv(os.path.join(current_dir, 'data', 'card_metadata_enhanced_final.csv'))
 
     # Load the counter cards JSON
     with open(r'C:\Users\maxda\PycharmProjects\pythonProject6\src\data\card_counters.json', 'r') as f:
