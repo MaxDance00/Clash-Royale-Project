@@ -20,7 +20,7 @@ def load_data():
     cards_df = pd.read_csv(os.path.join(current_dir, 'data', 'card_metadata_enhanced_final.csv'))
 
     # Load the counter cards JSON
-    with open(r'C:\Users\maxda\PycharmProjects\pythonProject6\src\data\card_counters.json', 'r') as f:
+     with open(os.path.join(current_dir, 'data', 'card_counters.json'), 'r') as f: 
         counter_data = json.load(f)
 
     return cards_df, counter_data
