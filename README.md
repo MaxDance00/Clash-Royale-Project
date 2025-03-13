@@ -8,4 +8,4 @@ A Python application that helps players build effective Clash Royale decks by an
 
 Try the app here: [Clash Royale Deck Builder App](https://portfolio-projects-p78uvulvjscgavoonhjrek.streamlit.app/)  
    
- A tool to help Clash Royale players build effective decks by analyzing card counters and synergies.
+
