@@ -1,0 +1,823 @@
+{
+  "Knight": [
+    "Mini P.E.K.K.A",
+    "Prince",
+    "Valkyrie",
+    "Skeleton Army"
+  ],
+  "Archers": [
+    "Fireball",
+    "Arrows",
+    "The Log",
+    "Baby Dragon"
+  ],
+  "Goblins": [
+    "Musketeer",
+    "Arrows",
+    "Bomber"
+  ],
+  "Giant": [
+    "Inferno Tower",
+    "Inferno Dragon",
+    "P.E.K.K.A",
+    "Mini P.E.K.K.A",
+    "Skeleton Army",
+    "Tombstone",
+    "Hunter",
+    "Fisherman",
+    "Cannon"
+  ],
+  "P.E.K.K.A": [
+    "Skeleton Army",
+    "Inferno Tower",
+    "Mini P.E.K.K.A",
+    "Goblin Gang",
+    "Valkyrie"
+  ],
+  "Minions": [
+    "Arrows",
+    "Zap",
+    "Giant Snowball",
+    "Wizard",
+    "Baby Dragon",
+    "Ice Wizard"
+  ],
+  "Balloon": [
+    "Musketeer",
+    "Electro Wizard",
+    "Inferno Tower",
+    "Inferno Dragon",
+    "Bats",
+    "Minions",
+    "Tesla",
+    "Hunter",
+    "Mega Minion",
+    "Rocket"
+  ],
+  "Witch": [
+    "Valkyrie",
+    "Fireball",
+    "Poison",
+    "Lightning",
+    "Mega Knight",
+    "Bomber",
+    "Executioner",
+    "Wizard",
+    "Baby Dragon",
+    "Bowler"
+  ],
+  "Barbarians": [
+    "Archers",
+    "Mini P.E.K.K.A",
+    "Princess"
+  ],
+  "Golem": [
+    "Inferno Tower",
+    "Inferno Dragon",
+    "P.E.K.K.A",
+    "Mini P.E.K.K.A",
+    "Rocket",
+    "Lightning",
+    "Tombstone",
+    "Tesla",
+    "Hunter",
+    "Fisherman"
+  ],
+  "Skeletons": [
+    "Zap",
+    "Snowball",
+    "Ice Spirit",
+    "Fire Spirit"
+  ],
+  "Valkyrie": [
+    "Skeleton Army",
+    "Goblin Gang",
+    "Minion Horde"
+  ],
+  "Skeleton Army": [
+    "Valkyrie",
+    "Wizard",
+    "Baby Dragon",
+    "Arrows",
+    "Zap",
+    "The Log",
+    "Bomber",
+    "Fire Spirit",
+    "Ice Spirit",
+    "Electro Spirit",
+    "Tornado"
+  ],
+  "Bomber": [
+    "Arrows",
+    "The Log",
+    "Barbarian Barrel",
+    "Minions"
+  ],
+  "Musketeer": [
+    "Fireball",
+    "Lightning",
+    "Poison",
+    "Mini P.E.K.K.A",
+    "Knight",
+    "Valkyrie",
+    "Mega Knight",
+    "Assassin"
+  ],
+  "Baby Dragon": [
+    "Musketeer",
+    "Electro Wizard",
+    "Inferno Dragon"
+  ],
+  "Prince": [
+    "Mini P.E.K.K.A",
+    "Valkyrie",
+    "Skeleton Army"
+  ],
+  "Wizard": [
+    "Fireball",
+    "Lightning",
+    "Poison",
+    "Mini P.E.K.K.A",
+    "Knight",
+    "Valkyrie",
+    "Mega Knight",
+    "Assassin"
+  ],
+  "Mini P.E.K.K.A": [
+    "Inferno Tower",
+    "P.E.K.K.A",
+    "Tornado"
+  ],
+  "Spear Goblins": [
+    "The Log",
+    "Arrows",
+    "Zap",
+    "Giant Snowball"
+  ],
+  "Giant Skeleton": [
+    "Inferno Tower",
+    "Mini P.E.K.K.A"
+  ],
+  "Hog Rider": [
+    "Tornado",
+    "Cannon",
+    "Tesla",
+    "Inferno Tower",
+    "Goblin Cage",
+    "Barbarians",
+    "Mini P.E.K.K.A",
+    "Fisherman",
+    "Tombstone"
+  ],
+  "Minion Horde": [
+    "Arrows",
+    "Wizard",
+    "Baby Dragon",
+    "Fireball",
+    "Poison",
+    "Executioner",
+    "Fire Spirit",
+    "Ice Spirit",
+    "Electro Spirit",
+    "Tornado"
+  ],
+  "Ice Wizard": [
+    "Fireball",
+    "Poison",
+    "Lightning",
+    "Mini P.E.K.K.A",
+    "Prince"
+  ],
+  "Royal Giant": [
+    "Inferno Tower",
+    "Inferno Dragon",
+    "P.E.K.K.A",
+    "Mini P.E.K.K.A",
+    "Tesla",
+    "Cannon",
+    "Fisherman",
+    "Hunter"
+  ],
+  "Guards": [
+    "Valkyrie",
+    "Wizard",
+    "Baby Dragon",
+    "Poison",
+    "Arrows"
+  ],
+  "Princess": [
+    "The Log",
+    "Arrows",
+    "Barbarian Barrel",
+    "Goblin Gang"
+  ],
+  "Dark Prince": [
+    "Mini P.E.K.K.A",
+    "Valkyrie",
+    "Skeleton Army"
+  ],
+  "Three Musketeers": [
+    "Fireball",
+    "Arrows",
+    "Lightning"
+  ],
+  "Lava Hound": [
+    "Inferno Tower",
+    "Inferno Dragon",
+    "Musketeer",
+    "Electro Wizard",
+    "Wizard"
+  ],
+  "Ice Spirit": [
+    "Skeletons",
+    "Goblins",
+    "Spear Goblins"
+  ],
+  "Fire Spirit": [
+    "Zap",
+    "Arrows"
+  ],
+  "Miner": [
+    "Valkyrie",
+    "Knight",
+    "Mini P.E.K.K.A",
+    "Goblin Gang"
+  ],
+  "Sparky": [
+    "Rocket",
+    "Lightning",
+    "Electro Wizard",
+    "Zap",
+    "Electro Dragon"
+  ],
+  "Bowler": [
+    "Inferno Dragon",
+    "Inferno Tower",
+    "Mini P.E.K.K.A",
+    "Prince",
+    "P.E.K.K.A"
+  ],
+  "Lumberjack": [
+    "Mini P.E.K.K.A",
+    "Inferno Tower"
+  ],
+  "Battle Ram": [
+    "Mini P.E.K.K.A",
+    "Valkyrie"
+  ],
+  "Inferno Dragon": [
+    "Electro Wizard",
+    "Zap",
+    "Lightning"
+  ],
+  "Ice Golem": [
+    "Mini P.E.K.K.A",
+    "Electro Wizard"
+  ],
+  "Mega Minion": [
+    "Arrows",
+    "Zap"
+  ],
+  "Dart Goblin": [
+    "Arrows",
+    "Zap"
+  ],
+  "Goblin Gang": [
+    "Valkyrie",
+    "Wizard",
+    "Baby Dragon",
+    "Arrows",
+    "Zap",
+    "The Log",
+    "Bomber",
+    "Fire Spirit",
+    "Ice Spirit",
+    "Electro Spirit",
+    "Tornado"
+  ],
+  "Electro Wizard": [
+    "Fireball",
+    "Lightning",
+    "Poison",
+    "Mini P.E.K.K.A",
+    "Knight",
+    "Valkyrie",
+    "Mega Knight",
+    "Assassin"
+  ],
+  "Elite Barbarians": [
+    "Mini P.E.K.K.A",
+    "Skeleton Army"
+  ],
+  "Hunter": [
+    "Inferno Tower",
+    "Mini P.E.K.K.A"
+  ],
+  "Executioner": [
+    "Lightning",
+    "Rocket",
+    "Mini P.E.K.K.A",
+    "Prince",
+    "Mega Knight",
+    "Sparky"
+  ],
+  "Bandit": [
+    "Knight",
+    "Valkyrie",
+    "Mini P.E.K.K.A",
+    "Guards"
+  ],
+  "Royal Recruits": [
+    "Fireball",
+    "Arrows"
+  ],
+  "Night Witch": [
+    "Valkyrie",
+    "Wizard",
+    "Executioner",
+    "Poison",
+    "Fireball"
+  ],
+  "Bats": [
+    "Zap",
+    "Arrows",
+    "Snowball",
+    "Fire Spirit",
+    "Ice Spirit",
+    "Electro Spirit",
+    "Tornado",
+    "Baby Dragon",
+    "Wizard"
+  ],
+  "Royal Ghost": [
+    "Knight",
+    "Valkyrie",
+    "Mini P.E.K.K.A",
+    "Guards"
+  ],
+  "Ram Rider": [
+    "Inferno Tower",
+    "Electro Wizard",
+    "Barbarians",
+    "Goblin Cage",
+    "Mini P.E.K.K.A"
+  ],
+  "Zappies": [
+    "Arrows",
+    "Fireball"
+  ],
+  "Rascals": [
+    "Zap",
+    "Mini P.E.K.K.A"
+  ],
+  "Cannon Cart": [
+    "Mini P.E.K.K.A",
+    "Tornado"
+  ],
+  "Mega Knight": [
+    "Inferno Tower",
+    "Inferno Dragon",
+    "P.E.K.K.A",
+    "Mini P.E.K.K.A",
+    "Valkyrie",
+    "Knight",
+    "Prince",
+    "Barbarians"
+  ],
+  "Skeleton Barrel": [
+    "Arrows",
+    "Mini P.E.K.K.A"
+  ],
+  "Flying Machine": [
+    "Arrows",
+    "Mini P.E.K.K.A"
+  ],
+  "Wall Breakers": [
+    "Mini P.E.K.K.A",
+    "Arrows"
+  ],
+  "Royal Hogs": [
+    "Inferno Tower",
+    "Mini P.E.K.K.A"
+  ],
+  "Goblin Giant": [
+    "Mini P.E.K.K.A",
+    "Arrows"
+  ],
+  "Fisherman": [
+    "Valkyrie",
+    "Knight",
+    "Mini P.E.K.K.A",
+    "Musketeer",
+    "Electro Wizard"
+  ],
+  "Magic Archer": [
+    "Fireball",
+    "Poison",
+    "Lightning",
+    "The Log",
+    "Arrows"
+  ],
+  "Electro Dragon": [
+    "Musketeer",
+    "Mega Minion",
+    "Baby Dragon",
+    "Inferno Dragon",
+    "Minions",
+    "Bats"
+  ],
+  "Firecracker": [
+    "Arrows",
+    "The Log",
+    "Barbarian Barrel",
+    "Royal Delivery",
+    "Valkyrie"
+  ],
+  "Mighty Miner": [
+    "Inferno Tower",
+    "Electro Wizard",
+    "P.E.K.K.A",
+    "Skeleton Army"
+  ],
+  "Elixir Golem": [
+    "Inferno Tower",
+    "Inferno Dragon",
+    "P.E.K.K.A",
+    "Mini P.E.K.K.A",
+    "Executioner",
+    "Wizard",
+    "Baby Dragon"
+  ],
+  "Battle Healer": [
+    "Poison",
+    "Fireball",
+    "Rocket",
+    "Lightning",
+    "Mega Knight",
+    "P.E.K.K.A",
+    "Mini P.E.K.K.A"
+  ],
+  "Skeleton King": [
+    "Valkyrie",
+    "Baby Dragon",
+    "Fireball",
+    "Wizard"
+  ],
+  "Archer Queen": [
+    "Lightning",
+    "Rocket",
+    "Fireball",
+    "Electro Giant"
+  ],
+  "Golden Knight": [
+    "P.E.K.K.A",
+    "Electro Wizard",
+    "Valkyrie",
+    "Skeleton Army"
+  ],
+  "Monk": [
+    "P.E.K.K.A",
+    "Inferno Tower",
+    "Electro Wizard",
+    "Valkyrie"
+  ],
+  "Skeleton Dragons": [
+    "Musketeer",
+    "Electro Wizard",
+    "Fireball",
+    "Mega Minion"
+  ],
+  "Mother Witch": [
+    "Fireball",
+    "Poison",
+    "Lightning",
+    "Valkyrie",
+    "Knight",
+    "Mini P.E.K.K.A"
+  ],
+  "Electro Spirit": [
+    "Skeletons",
+    "Goblins",
+    "Spear Goblins",
+    "Knight",
+    "Valkyrie"
+  ],
+  "Electro Giant": [
+    "Inferno Tower",
+    "Inferno Dragon",
+    "P.E.K.K.A",
+    "Mini P.E.K.K.A",
+    "Fisherman",
+    "Tombstone",
+    "Tesla",
+    "Cannon",
+    "Rocket"
+  ],
+  "Phoenix": [
+    "Electro Wizard",
+    "Musketeer",
+    "Mega Minion",
+    "Fireball"
+  ],
+  "Little Prince": [
+    "Valkyrie",
+    "Knight",
+    "Mini P.E.K.K.A",
+    "Skeleton Army"
+  ],
+  "Goblin Demolisher": [
+    "Inferno Tower",
+    "P.E.K.K.A",
+    "Rocket",
+    "Electro Wizard"
+  ],
+  "Goblin Machine": [
+    "Inferno Tower",
+    "P.E.K.K.A",
+    "Electro Wizard",
+    "Rocket"
+  ],
+  "Suspicious Bush": [
+    "Fireball",
+    "Arrows",
+    "Baby Dragon",
+    "Valkyrie"
+  ],
+  "Goblinstein": [
+    "P.E.K.K.A",
+    "Inferno Tower",
+    "Rocket",
+    "Electro Wizard"
+  ],
+  "Rune Giant": [
+    "Inferno Tower",
+    "P.E.K.K.A",
+    "Inferno Dragon",
+    "Skeleton Army"
+  ],
+  "Berserker": [
+    "Inferno Tower",
+    "P.E.K.K.A",
+    "Skeleton Army",
+    "Electro Wizard"
+  ],
+  "Cannon": [
+    "Earthquake",
+    "Lightning",
+    "Rocket",
+    "Giant",
+    "Royal Giant"
+  ],
+  "Goblin Hut": [
+    "Earthquake",
+    "Poison",
+    "Fireball",
+    "Rocket",
+    "Lightning",
+    "Royal Giant",
+    "Miner"
+  ],
+  "Mortar": [
+    "Earthquake",
+    "Lightning",
+    "Rocket",
+    "Giant",
+    "Royal Giant",
+    "Golem",
+    "Electro Giant",
+    "Mega Knight",
+    "Bowler"
+  ],
+  "Inferno Tower": [
+    "Lightning",
+    "Electro Wizard",
+    "Zap",
+    "Electro Dragon",
+    "Battle Ram",
+    "Earthquake",
+    "Royal Hogs"
+  ],
+  "Bomb Tower": [
+    "Earthquake",
+    "Lightning",
+    "Rocket",
+    "Giant",
+    "Royal Giant"
+  ],
+  "Barbarian Hut": [
+    "Earthquake",
+    "Lightning",
+    "Rocket",
+    "Poison"
+  ],
+  "Tesla": [
+    "Earthquake",
+    "Lightning",
+    "Rocket",
+    "Giant",
+    "Royal Giant"
+  ],
+  "Elixir Collector": [
+    "Earthquake",
+    "Lightning",
+    "Rocket",
+    "Miner"
+  ],
+  "X-Bow": [
+    "Earthquake",
+    "Lightning",
+    "Rocket",
+    "Giant",
+    "Royal Giant",
+    "Golem",
+    "Electro Giant",
+    "Mega Knight",
+    "Bowler"
+  ],
+  "Tombstone": [
+    "Earthquake",
+    "The Log",
+    "Arrows",
+    "Zap",
+    "Baby Dragon",
+    "Valkyrie"
+  ],
+  "Furnace": [
+    "Earthquake",
+    "Poison",
+    "Fireball",
+    "Rocket",
+    "Lightning",
+    "Royal Giant",
+    "Miner"
+  ],
+  "Goblin Cage": [
+    "Earthquake",
+    "Lightning",
+    "Rocket",
+    "Giant",
+    "Royal Giant"
+  ],
+  "Goblin Drill": [
+    "Valkyrie",
+    "Bomber",
+    "Tornado",
+    "Arrows"
+  ],
+  "Fireball": [
+    "Elixir Collector",
+    "Three Musketeers",
+    "Royal Recruits",
+    "Barbarians",
+    "Rascals"
+  ],
+  "Arrows": [
+    "Minion Horde",
+    "Princess",
+    "Goblin Barrel",
+    "Skeleton Army"
+  ],
+  "Rage": [
+    "Inferno Tower",
+    "Tornado",
+    "Ice Wizard",
+    "Freeze"
+  ],
+  "Rocket": [
+    "Elixir Collector",
+    "Sparky",
+    "X-Bow",
+    "Executioner",
+    "Wizard",
+    "Witch",
+    "Three Musketeers"
+  ],
+  "Goblin Barrel": [
+    "The Log",
+    "Arrows",
+    "Barbarian Barrel",
+    "Valkyrie",
+    "Goblin Gang",
+    "Skarmy",
+    "Zap",
+    "Snowball",
+    "Fire Spirit"
+  ],
+  "Freeze": [
+    "Skeleton Army",
+    "Inferno Tower",
+    "Valkyrie",
+    "Tornado"
+  ],
+  "Mirror": [
+    "Tornado",
+    "Valkyrie",
+    "Inferno Tower",
+    "Electro Wizard"
+  ],
+  "Lightning": [
+    "Inferno Tower",
+    "Inferno Dragon",
+    "Wizard",
+    "Witch",
+    "Executioner",
+    "Electro Wizard",
+    "Sparky"
+  ],
+  "Zap": [
+    "Skeleton Army",
+    "Inferno Tower",
+    "Inferno Dragon",
+    "Sparky",
+    "Bats"
+  ],
+  "Poison": [
+    "Skeleton Army",
+    "Goblin Gang",
+    "Minion Horde",
+    "Graveyard",
+    "Witch",
+    "Night Witch",
+    "Elixir Collector"
+  ],
+  "Graveyard": [
+    "Poison",
+    "Valkyrie",
+    "Archers",
+    "Goblin Gang",
+    "Skeleton Army",
+    "Bats",
+    "Minions",
+    "Dart Goblin",
+    "Princess",
+    "Bomber"
+  ],
+  "The Log": [
+    "Princess",
+    "Dart Goblin",
+    "Goblin Barrel",
+    "Skeleton Army"
+  ],
+  "Tornado": [
+    "Hog Rider",
+    "Balloon",
+    "Goblin Barrel",
+    "Skeleton Army",
+    "Goblin Gang",
+    "Minion Horde",
+    "Princess"
+  ],
+  "Clone": [
+    "Arrows",
+    "Zap",
+    "Tornado",
+    "Baby Dragon"
+  ],
+  "Earthquake": [
+    "X-Bow",
+    "Mortar",
+    "Inferno Tower",
+    "Bomb Tower",
+    "Cannon",
+    "Tesla",
+    "Furnace",
+    "Goblin Hut"
+  ],
+  "Barbarian Barrel": [
+    "Goblin Barrel",
+    "Princess",
+    "Dart Goblin",
+    "Goblin Gang"
+  ],
+  "Heal Spirit": [
+    "Arrows",
+    "The Log",
+    "Zap",
+    "Knight"
+  ],
+  "Giant Snowball": [
+    "Skeleton Army",
+    "Goblin Gang",
+    "Minions",
+    "Bats"
+  ],
+  "Royal Delivery": [
+    "Goblin Gang",
+    "Skeleton Army",
+    "Princess",
+    "Dart Goblin",
+    "Rascals"
+  ],
+  "Void": [
+    "Valkyrie",
+    "Baby Dragon",
+    "Wizard",
+    "Tornado"
+  ],
+  "Goblin Curse": [
+    "Valkyrie",
+    "Baby Dragon",
+    "Wizard",
+    "Arrows"
+  ]
+}
