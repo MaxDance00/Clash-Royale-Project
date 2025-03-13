@@ -13,7 +13,7 @@ st.title("Clash Royale Deck Builder")
 
 # Load data
 @st.cache_data  
- def load_data():  
+def load_data():  
      # Load the card metadata from CSV  
      # Use a relative path that works both locally and on Streamlit Cloud  
      current_dir = os.path.dirname(__file__)  
