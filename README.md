@@ -9,4 +9,5 @@ Elixir trade evaluation
 Interactive interface using Streamlit
 Try the app here: Clash Royale Deck Builder App
 
+Please select the master branch from the dropdown menu to view 
 
