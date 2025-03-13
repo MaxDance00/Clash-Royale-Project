@@ -12,18 +12,18 @@ st.title("Clash Royale Deck Builder")
 
 
 # Load data
-@st.cache_data
-def load_data():
-    # Load the card metadata from CSV
-    # Use a relative path that works both locally and on Streamlit Cloud
-    current_dir = os.path.dirname(__file__)
-    cards_df = pd.read_csv(os.path.join(current_dir, 'data', 'card_metadata_enhanced_final.csv'))
-
-    # Load the counter cards JSON
-     with open(os.path.join(current_dir, 'data', 'card_counters.json'), 'r') as f: 
-        counter_data = json.load(f)
-
-    return cards_df, counter_data
+@st.cache_data  
+ def load_data():  
+     # Load the card metadata from CSV  
+     # Use a relative path that works both locally and on Streamlit Cloud  
+     current_dir = os.path.dirname(__file__)  
+     cards_df = pd.read_csv(os.path.join(current_dir, 'data', 'card_metadata_enhanced_final.csv'))  
+   
+     # Load the counter cards JSON  
+     with open(os.path.join(current_dir, 'data', 'card_counters.json'), 'r') as f:  
+         counter_data = json.load(f)  
+   
+     return cards_df, counter_data
 
 
 cards_df, counter_data = load_data()
